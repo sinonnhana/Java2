@@ -1,3 +1,3 @@
-# java2-code
+# java2
 My class code in java2
 hello! 
