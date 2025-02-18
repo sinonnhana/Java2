@@ -1,3 +1,3 @@
-# java2
-My class code in java2
-hello! 
+# SUSTECH CS209
+## Computer System Design and Applications
+### Lab Tasks/ Lec slides / Projects
